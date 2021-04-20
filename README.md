@@ -3,6 +3,15 @@
 # The Art of GorillaFu:
 ### Infinite Monkey Theorem applied to code
 
+  <div class='pics_in_a_row' style='display: flex;'>
+    <div class='img1'>
+      <img src='MonkeyHacker.gif'>
+    </div>
+    <div class='img2'>
+      <img src='gorille.gif'>
+    </div>
+  </div>
+
 <p float="center">
    <img align="center" img height="335.2px" src="MonkeyHacker.gif" alt="computer monkey" width="56%"/>
    <img align="center" src="gorille.gif" alt="gorillas" width="40%"/>
