@@ -1,3 +1,8 @@
+<!-- font: din -->
+<div align="center">
+
+# The Art of GorillaFu
+
 <p float="center">
    <img align="center" img height="335.2px" src="MonkeyHacker.gif" alt="computer monkey" width="56%"/>
    <img align="center" src="gorille.gif" alt="gorillas" width="40%"/>
