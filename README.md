@@ -1,6 +1,5 @@
-<!-- font: din -->
 <div align="center">
-
+<!-- font: din -->
 # The Art of GorillaFu
 
 <p float="center">
