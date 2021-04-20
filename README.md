@@ -1,1 +1,1 @@
-[![GorillaFu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillaFu)](https://github.com/anuraghazra/github-readme-stats)
+[![GorillaFu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillaFu&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
