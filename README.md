@@ -1,4 +1,4 @@
-<p float="left">
+<p float="center">
    <img src="MonkeyHacker.gif" alt="computer monkey" width="40%"/>
    <img src="gorille.gif" alt="gorillas" width="25%"/>
 </p>
