@@ -1,6 +1,5 @@
 <div align="center">
-<!-- font: din -->
-# The Art of GorillaFu
+<h1 style="font-family: Futura" >This is a paragraph.</h1>
 
 <p float="center">
    <img align="center" img height="335.2px" src="MonkeyHacker.gif" alt="computer monkey" width="56%"/>
