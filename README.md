@@ -1,6 +1,6 @@
 <p float="center">
-   <img align="center" img height="500px" src="MonkeyHacker.gif" alt="computer monkey" width="55.5%"/>
-   <img align="right" src="gorille.gif" alt="gorillas" width="35%"/>
+   <img align="center" img height="335.2px" src="MonkeyHacker.gif" alt="computer monkey" width="56%"/>
+   <img align="center" src="gorille.gif" alt="gorillas" width="40%"/>
 </p>
 
 <a><img height="165px" img align="center" alt="GorillaFu's Stats" src="https://github-readme-stats.vercel.app/api?username=GorillaFu&show_icons=true&theme=chartreuse-dark" />
