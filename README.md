@@ -1,7 +1,7 @@
 <div align="center">
 
 # The Art of GorillaFu:
-## Infinite Monkey Theorem applied to code
+### Infinite Monkey Theorem applied to code
 
 <p float="center">
    <img align="center" img height="335.2px" src="MonkeyHacker.gif" alt="computer monkey" width="56%"/>
