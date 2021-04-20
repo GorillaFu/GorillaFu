@@ -1,4 +1,5 @@
 <div align="center">
+
 # The Art of GorillaFu
 
 <p float="center">
