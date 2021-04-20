@@ -1,5 +1,5 @@
 <p float="left">
-   <img src="MonkeyHacker.gif" alt="computer monkey" width="50%"/>
+   <img src="MonkeyHacker.gif" alt="computer monkey" width="35%"/>
    <img src="gorille.gif" alt="gorillas" width="25%"/>
 </p>
 
