@@ -5,10 +5,10 @@
 
   <div class='pics_in_a_row' style='display: flex;'>
     <div class='img1'>
-      <img src='MonkeyHacker.gif'>
+      <img src='MonkeyHacker.gif' style='flex: 1.6546'>
     </div>
     <div class='img2'>
-      <img src='gorille.gif'>
+      <img src='gorille.gif' style='flex: 3.7621'>
     </div>
   </div>
 
